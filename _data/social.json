@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "fa-facebook",
+    "link": "http://facebook.com/slashrahul"
+  },
+  {
+    "icon": "fa-twitter",
+    "link": "http://twitter.com/Rahul_Mahale/"
+  },
+  {
+    "icon": "fa-linkedin",
+    "link": "https://www.linkedin.com/in/slashrahul/"
+  },
+  {
+    "icon": "fa-github",
+    "link": "github.com/RahulMahale"
+  }
+]
