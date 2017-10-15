@@ -3,19 +3,42 @@ layout: page
 title: About
 permalink: /about/
 ---
-cat /slashrahul/about
 
-Everything about Linux and Containers
+# ***`$ cat /slashrahul/about`***
+<!-- ### ***#!/bin/bash*** -->
+<!-- *All about Linux and Containers* -->
+<pre>
+<b>#!/bin/bash
 
-I am Passionate Software Engineer and Open-Source Enthusiastic, 
-I automate all the stuffs in infrastructure provisioning and deployment, and strong believer of Infra-as-a-code principle. I am proficient in automatation using Chef, Ansible, Terraform, Cloud-Formation and usually I am fond of using Scripting languages like Bash, Ruby and Python.
+An Open-Source Enthusiast.
 
-I love to attend and speak at technical meetups and conferences.	
+Believes in Infrastructure-as-a-code principal.
 
-Recently I am working mostly on Containers and orchestration of containers in the Cloud environments and I am proficient in implementing Kubernetes Clusters.
-Name:- Rahul Mahale
+Proficient in automating Infrastructure using tools like
+Chef, Ansible, Terraform, Cloud-Formation and
+scripting languages like Bash, Ruby and Python.
 
-Education:- B.E.I.T from University of Pune
+Recently working mostly on Containers and orchestration of containers.
+in the Cloud environments and Bare metals.
 
-Work:- Currently Working as [Senior DevOps Engineer](http://bigbinary.com/team/rahulmahale) at [BigBinary](http://bigbinary.com/) I have also work with Startups like TinyOwl and SecureDB
+Proficient in implementing Kubernetes, Docker swarm, Mesos and Rancher Clusters etc.
 
+Currently Working as <a href="http://bigbinary.com/team/rahulmahale">Senior DevOps Engineer</a> at <a href="https://bigbinary.com">BigBinary</a>
+
+Have worked with Startups like TinyOwl and SecureDB.
+
+Love to Speak and attend technical conferences and meetups.
+
+Checkout my <a href="">Videos and Presentations</a>
+sections for the events I was involved.
+
+Check my <a href="">blog</a> section for all my articles.
+
+A Cricket lover and die heart fan of Rahul Dravid and MS Dhoni.
+
+In my free time, you will find me reading Literature.
+
+Contact:- <a href="mailto:rahul.mahale123@gmail.com">rahul.mahale123@gmail.com</a>
+
+</b>
+</pre>
