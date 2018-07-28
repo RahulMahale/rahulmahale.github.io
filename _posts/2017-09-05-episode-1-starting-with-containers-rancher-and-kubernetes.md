@@ -4,7 +4,6 @@ episode: 1
 title: 'Episode 1: Starting with Containers, Rancher and Kubernetes'
 description: Welcome to the inaugural episode of the All Things Devops Podcast. This is a brand new podcast from the BigBinary Team where we will discuss all things related to devops.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://s3.amazonaws.com/all-things-devops/Episode-1-Starting-with-Containers.mp3
 length: 28894765
 duration: '30:05'

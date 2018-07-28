@@ -4,7 +4,6 @@ episode: 9
 title: 'Episode 9: Deploying Docker containers with Nomad'
 description: In this Episode, Ershad, Vipul and Rahul discuss about deploying containers to production using Nomad, they also further talk about using consul and vault with Nomad.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://s3.amazonaws.com/all-things-devops/all-things-devops-episode-9.mp3
 length: 36272915
 duration: '25:10'

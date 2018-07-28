@@ -4,7 +4,6 @@ episode: 3
 title: 'Episode 3: Kubernetes and Rancher in Container Eco-system'
 description: In this Episode, Shannon Williams and Rahul Mahale discuss Kubernetes, Rancher, Docker and more.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://all-things-devops.s3.amazonaws.com/all-things-devops-episode-3.mp3
 length: 46746404
 duration: '32:30'

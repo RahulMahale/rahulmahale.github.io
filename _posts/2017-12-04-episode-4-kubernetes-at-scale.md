@@ -4,7 +4,6 @@ episode: 4
 title: 'Episode 4: Kubernetes at Scale'
 description: In this Episode,Rahul Mahale and Vipul AM discuss scaling apps on kubernetes and challenges involved in scaling kubernetes application.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://s3.amazonaws.com/all-things-devops/all-things-devops-episode-4.mp3
 length: 79284254
 duration: '33:10'

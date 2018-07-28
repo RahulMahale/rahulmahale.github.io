@@ -4,7 +4,6 @@ episode: 6
 title: 'Episode 6: Kubernetes and Microservices with Kelsey'
 description: In this Episode, [Kelsey](http://twitter.com/kelseyhightower) and Rahul discuss about Kubernetes, It's impact in container and micorservice ecosystem, Kelsey shares his thoughts on laying foundation while choosing Kubernetes as your container orchestration tool.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://s3.amazonaws.com/all-things-devops/all_things_devops_episode_6.mp3
 length: 48571524
 duration: '33:43'

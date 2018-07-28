@@ -4,7 +4,6 @@ episode: 5
 title: 'Episode 5: Diving into Kubernetes'
 description: In this Episode, [Neependra](https://twitter.com/neependra) founder of [cloudyuga](https://cloudyuga.guru/) and Rahul discuss about the Neependra's experince into starting with container technolgies like docker, kubernetes etc.
 author: BigBinary
-categories: [Podcast][Kubernetes]
 enclosure: https://s3.amazonaws.com/all-things-devops/all-things-devops-episode-5.mp3
 length: 39742768
 duration: '27:37'
