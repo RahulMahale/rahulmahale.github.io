@@ -6,30 +6,18 @@
     "layout": "post"
   },
   {
+    "text": "Talks and Workshops",
+    "url": "/talks_and_workshops",
+    "icon": "fa-desktop"
+  },
+  {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
   },
   {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-graduation-cap",
-    "layout": "post"
-  },
-  {
     "text": "Github",
-    "url": "",
+    "url": "http://github.com/RahulMahale/",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
