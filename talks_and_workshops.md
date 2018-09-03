@@ -4,10 +4,10 @@ title: Talks and Workshops
 permalink: /talks_and_workshops/
 ---
 
-**Being a FOSS advocate and community contributor,
+Being a FOSS advocate and community contributor,
 I love to attend and talk at technical events.
 
-**These are few of the events I have participated.**
+These are few of the events I have participated.
 
 
 * Talk at **DevOps India Summit 2018** Bangalore on **Kubernetes Hybrid clusters**.
