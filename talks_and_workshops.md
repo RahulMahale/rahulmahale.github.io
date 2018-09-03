@@ -6,9 +6,11 @@ permalink: /talks_and_workshops/
 
 **Being a FOSS advocate and community contributor,
 I love to attend and talk at technical events.
+
 These are few of the events I have participated.**
 
 
+* Talk at **DevOps India Summit 2018** Bangalore on **Kubernetes Hybrid clusters**.
 
 * **Kubernetes workshop** at **[BigBinary](https://bigbinary.com)** Pune, 10th August 2018, contentes of workshop are [here](http://github.com/bigbinary/kubernetes-workshop).
 
