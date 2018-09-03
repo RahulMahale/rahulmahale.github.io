@@ -7,7 +7,7 @@ permalink: /talks_and_workshops/
 **Being a FOSS advocate and community contributor,
 I love to attend and talk at technical events.
 
-These are few of the events I have participated.**
+**These are few of the events I have participated.**
 
 
 * Talk at **DevOps India Summit 2018** Bangalore on **Kubernetes Hybrid clusters**.
@@ -30,3 +30,4 @@ Slides and scripts are [here](https://github.com/RahulMahale/Talks-and-workshops
 * **Fedora workshop** at Sahyadri Valley college of Engineering, July 2014.
 
 * **Fedora workshop** at **MMCOE Pune**, August 2013.
+
